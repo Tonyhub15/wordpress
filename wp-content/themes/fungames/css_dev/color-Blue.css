@@ -1,0 +1,137 @@
+body { background: #fff url(../images/body_bg_blue.png) repeat-x; color: #1D4088; }
+a { color: #1D4088; }
+a:hover  { color: #627AAD; }
+blockquote { color: #31333F; border-left: 2px solid #07A0E3; }
+img.alignnone, img.alignright, img.alignleft { background: #fff; border:  1px solid #DDDDDD; } 
+.wp-caption { border:  1px solid #DDDDDD; background-color:  #ffffff; }
+#wrapper { background: #F4F4F4; border-left: 1px solid #0572AB; border-right: 1px solid #0572AB; }
+#fgpage {background-color: #f4f4f4;}  
+.topad{ background: #535A5F; }
+#top { background-color: #f4f4f4; }
+.blogname h1  { color: #cacccd; }
+.blogname h1  a:link, .blogname h1  a:visited { color:  #cacccd; }
+.blogname h1  a:hover { color:  #eee; }
+.blogname h2 { color: #343434; }
+#headbanner { border:  0px solid black; }
+#rss { border:  0px solid black; }
+#subscribe_email_btn { background: url(../images/go_dark_grey.png) no-repeat; }
+#s { border:  1px solid #CCCCCC; color: #000000; background-image: url(../images/search_icon.png); background-repeat: no-repeat; background-position:  5px 1px; }
+#btn_search { background: url(../images/go_dark_grey.png) no-repeat; } 
+#menu ul li a { color:  #000000; }
+#menu ul li a:hover,#menu.current_page_item a { color:  #000000; }
+#loginbox { background: #94C8DF; color: #1d4088; border-bottom: 1px solid #64adce;  }
+#loginbox a { color: #1d4088; }
+#loginbox a:hover { color: #627aad; }
+#catcontainer { background: #94C8DF; border-top: 1px solid #64adce; }
+#catmenu {  background: #94C8DF; } 
+#catmenu li a, #catmenu li a:link, #catmenu li a:visited { color:  #1d4088; }
+#catmenu li a:hover, #catmenu li a:active { background-color:  #64adce; color:  #fff; }
+#catmenu li li a, #catmenu li li a:link, #catmenu li li a:visited { background: #94C8DF; color: #1d4088; border-bottom:  1px solid #64adce; border-left:  1px solid #64adce; border-right:  1px solid #64adce; }
+#catmenu li li a:hover, #catmenu li li a:active { background:  #64adce; color:  #fff; }  
+#content  h1 { color:  #0572AB; }
+#content .gamebox h2 { color:  #0572AB; }
+#content .gamebox h2 a { color:  #0572AB; }
+.cont3{ background: #DBF3FF; border: 2px solid #1E5B93; }
+#bordeswf{ border:0px solid #3F3F3F; }
+.favoritos { background:url(../images/sprite_blue.png) 0 -200px no-repeat; }
+.favoritos:hover{background:url(../images/sprite_blue.png) 0 -240px no-repeat; }
+.fullscreen { background:url(../images/sprite_blue.png) 0 -120px no-repeat; }
+.fullscreen:hover{background:url(../images/sprite_blue.png) 0 -160px no-repeat;}
+.interruptor{ background:url(../images/sprite_blue.png) 0 0 no-repeat; }
+.interruptor:hover{background:url(../images/sprite_blue.png) 0 -80px no-repeat; }
+.luz_apagada{background:url(../images/sprite_blue.png) 0 -40px no-repeat; }
+.game_title  a { color:  #0578AD; }
+.game_title img { border:  2px solid #ccc; }
+.game_title img:hover { border:  2px solid #0578AD; }
+#gamelist { border: 1px solid #0572AB; }
+#gamelist h1 { background-image:  url(../images/bg_cat_blue.png); background-repeat:  no-repeat; background-position:  right; }
+#gamelist ul { color: #504945; }
+.date {  color: #75481F; }
+.cat_view { color: #504945; background: #fff url(../images/bg_post.jpg) repeat-x; border: 1px solid #0572AB; }
+.cat_link { background:  url(../images/more.png) no-repeat 0 0; background-position:  right; }
+.cat_link a { color:  #fff; }
+.gamebox { color: #504945; border: 1px solid #0572AB; }
+.gamebox h1 { background-image:  url(../images/bg_cat_blue.png); background-repeat:  no-repeat; background-position:  right; }
+.gamebox  h2 { background-image:  url(../images/bg_cat_blue.png); background-repeat:  no-repeat; background-position:  right; }
+.single_game  { color: #504945; background: #fff url(../images/bg_post.jpg) repeat-x; border: 1px solid #ccc; }
+.singlepage { color: #333; background: #fff url(../images/bg_post.jpg) repeat-x; border: 1px solid #ccc; }
+.entry img { border:  2px solid #ccc; }
+.entry img:hover { border:  2px solid #0578AD; }  
+.entry a:link, .entry a:visited { color:  #AC0604; background-color:  transparent; }
+.entry a:hover { color: #455236; background-color:  transparent; }
+.related { color: #504945; background: #fff url(../images/bg_post.jpg) repeat-x; border: 1px solid #ccc; }
+.related  h3{ color: #07577F; }
+.related ul li a:link, .related ul li a:visited{ color: #222; }
+.related ul li a:hover{ color: #0A7CAF; }
+.moregames { border:  2px solid #ccc; }
+.moregames img { border:  2px solid #ccc; }
+.moregames img:hover { border:  2px solid #0578AD; }
+.sidebar { color:  #2676A1; }
+.sidebar h2 { color: #0572AB; background: #94C8DF; border: 1px solid #0572AB; }
+.sidebar ul { background-color: #DBF3FF; border: 1px solid #94C8DF; }
+.sidebar ul li { border-bottom: 1px dotted #0572AB; }
+.sidebar ul li ul li { border-bottom: 1px dotted #0572AB; }  
+.sidebar ul li a:link, .sidebar ul li a:visited { color: #333; }
+.sidebar ul li a:hover { color:  #2676A1; }
+.widgetad {  border: 1px solid #535A5F; }
+.widgetimage { border:  2px solid #0578AD; }
+.gravatar img { border:  2px solid #0578AD; }
+.userinfo { color: #535353; }
+fieldset#loginBox { color:#535353;}
+fieldset#loginBox form label input { border: 1px dotted #555; color: #535353; }
+#footbar{ background-color: #94C8DF; border-top: 1px solid #0572AB; }
+h2.pagetitle { color: #4A413C; }
+.post { background: #ebe1d2; border: 1px solid #ded5c9; color: #6c5b42; }
+.post h2 a, .post h2 a:link, .post h2 a:visited  { color: #354151; background-color:  transparent; }
+.post h2 a:hover  { color:  #354151; background-color:  transparent; }  
+.post img { background: #fff; border: 1px solid #ddd; }
+.breadcrumb{ border: 1px solid #DEDCDD; color: #444; background: #fff; }
+h3#comments { border: 1px solid #DEDCDD; color: #444; background: #fff; }   
+h3#pingbacks { border: 1px solid #DEDCDD; color: #444; background: #fff; }   
+#respond{ background: #fff; border: 1px solid #DEDCDD; }  
+#respond h3{ color: #444; }
+#commentform { color: #BFAFA7; }
+#commentform p { color: #3f79c4; }
+#commentform input { background: #F4F4F4; border: 1px solid #DEDCDD; color: #444; }
+#commentform textarea { background: #F4F4F4; border: 1px solid #DEDCDD; color: #444; }
+.comments input#submit { background-color: #0083DB; border: 2px solid #005F9F; color: #fff; }
+ol.commentlist li { border: 1px solid #DEDCDD; }
+ol.commentlist li div.vcard cite.fn a.url { color: #000; }
+ol.commentlist li div.vcard cite.fn a.url:hover { color: #000; }
+div.vcard img.avatar { border: 5px solid #ddd; }
+ol.commentlist li div.comment-meta a { color: #0083DB; }
+ol.commentlist li div.comment-meta a:hover { color: #000; }
+ol.commentlist li p { color: #546C88; } 
+#cancel-comment-reply-link{ color: #fff; background: #778F9F; border: 2px solid #666; } 
+ol.commentlist li div.reply a { color: #504945; }
+ol.commentlist li.even { background: #fff url(../images/bg_post.jpg) repeat-x; border: 1px solid #D1D8DF; }
+ol.commentlist li.odd { background: #fff url(../images/bg_post.jpg) repeat-x; border: 1px solid #ddd; }
+#myslides{ background: #f4f4f4; }
+.stepcarousel{ background: #f4f4f4; }
+.stepcarousel .panel{ background: #f4f4f4; border: 1px solid #0572AB; }
+.stepcarousel .panel h2 a:visited ,.stepcarousel .panel h2 a:link{ color: #1d4088; }
+.stepcarousel .panel img{  background: #040404; } 
+#postlist ul { border: none; background-color: transparent; }
+#postlist li { background-color: #DBF3FF; border: 1px solid #94C8DF; }
+#postlist li span { color: #535A5F; }
+#postlist li a { color: #535A5F; }
+#postlist li img { background: #EFEFEF; border: 1px solid #0572AB;}
+#postlist li .fcats a:link, #postlist li .fcats a:visited { color: #0284C2; }
+#postlist li .auth{ color: #262B2F; }
+.listi{ color: #fff; background: #535A5F; border: 1px solid #40494F; }
+.widgets { background:#FFFFFF; border:1px solid #ccc; }
+.widgets a { color: #222; }  
+.widgets a:hover { color: #009; }
+.contentbox {  background: #fff url(../images/bg_post.jpg) repeat-x; border: 1px solid #0572AB; }
+#content .fullcontent { color: #504945; background: #fff url(../images/bg_post.jpg) repeat-x; border: 1px solid #0572AB;}
+#sortable-game-box img { border: 2px solid #c7c7c7; }
+#sortable-game-box img:hover { border-color: #0578AD; }
+#hall-of-fame h2, #sortable-game-box h2, #promo-contests h2 { color: #0578AD; background-image: url(../images/bg_cat_blue.png); background-repeat: no-repeat; background-position: right; }
+#hall-of-fame ul li { border: 2px solid #E9E9E9; background-color: #F4F4F4; }
+#hall-of-fame .name, #hall-of-fame .name a, #sortable-game-box a { color: #0578AD; }
+#hall-of-fame .plays {color: #8A8A8A;}
+#hall-of-fame .highscores { color: #333; }
+#promo-contests ul li .thumb { border: 2px solid #E9E9E9;}
+/** Mingle **/
+div#mngl-profile-tab-control ul, .profile-edit-table, .mngl-search-form, .mngl-post-form { width: 95% !important; }
+.mngl-post-form { background: none; }

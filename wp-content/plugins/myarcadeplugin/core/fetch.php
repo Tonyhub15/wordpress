@@ -1,0 +1,24 @@
+<?php
+ if ( ! defined( 'ABSPATH' ) ) { exit; } function F7E69D3FF24B732E63C1BACF9EA0D3B84($echo) { $R679E9B9234E2062F809DBD3325D37FB6 = true; if ( !function_exists('json_decode') || F8D7A841BE2BAF925673E60D5753C8806() === FALSE ) { $RCAF0316E0D61FCF0ABDF0DFB05F597A6 = phpversion(); if ($echo) { if($RCAF0316E0D61FCF0ABDF0DFB05F597A6 < MYARCADE_PHP_VERSION) { echo '<font style="color:red;">
+             '.sprintf(__("You need at least PHP %s to run this plugin.", 'myarcadeplugin'), MYARCADE_PHP_VERSION).'
+             <br />
+             '.sprintf(__("You have %s installed.", 'myarcadeplugin'), $RCAF0316E0D61FCF0ABDF0DFB05F597A6).'
+             <br />
+             '.__("Contact your administrator to update your PHP version.", 'myarcadeplugin').'
+             </font><br /><br />'; } else { echo '<font style="color:red;">'.__("JSON Support is disabeld in your PHP configuration. Please contact your administrator to activate JSON Support.", 'myarcadeplugin').'</font><br /><br />'; } } $R679E9B9234E2062F809DBD3325D37FB6 = false; } return $R679E9B9234E2062F809DBD3325D37FB6; } function F720E8C77506CFC05F85A08A7EF8F1D41( $R9FE302BDF914868081913A22F58F9E7E = array() ) { $R1C087CFC2417747F08C78E3E5D5121E5 = array( 'url' => '', 'service' => '', 'echo' => true ); $RAA7BB4B05FBD27DB7CA594893F166B47 = wp_parse_args( $R9FE302BDF914868081913A22F58F9E7E, $R1C087CFC2417747F08C78E3E5D5121E5 ); extract($RAA7BB4B05FBD27DB7CA594893F166B47); $R569981A9B29B5950206124A5933F6CB9 = false; $url = apply_filters( 'myarcade_fetch_url', $url, $service ); switch ($service) { case 'json': { if ( !F7E69D3FF24B732E63C1BACF9EA0D3B84($echo) || F8D7A841BE2BAF925673E60D5753C8806() === FALSE ) { return false; } if ($echo) { ?>
+        <p class="mabp_info">
+          <?php echo __("Your Feed URL", 'myarcadeplugin').": <a href='".$url."'>".$url."</a>"; ?>
+        </p>
+
+        <p class="mabp_info">
+          <?php
+ echo __("Downloading feed", 'myarcadeplugin').': '; } $RF0EAC6DAF5B3AF677609338C1E10A2F4 = F6F8EB9DF17613F857E74D2C8D503672D($url); if ( !empty($RF0EAC6DAF5B3AF677609338C1E10A2F4['error']) ) { if ($echo) { echo '<font style="color:red;">'.__("ERROR", 'myarcadeplugin').': '.$RF0EAC6DAF5B3AF677609338C1E10A2F4['error'].'</font></p>'; } return false; } if ($RF0EAC6DAF5B3AF677609338C1E10A2F4['response']) { if ($echo) { echo '<font style="color:green;">'.__("OK", 'myarcadeplugin').'</font></p>'; } } else { if ($echo) { echo '<font style="color:red;">'.__("Can't download feed!", 'myarcadeplugin').'</font></p>'; F011F5FA6950FDD84A7242122BC8934C3(); } return false; } if ($echo) { ?><p class="mabp_info"><?php
+ echo __("Decode feed", 'myarcadeplugin').": "; } $R569981A9B29B5950206124A5933F6CB9 = json_decode($RF0EAC6DAF5B3AF677609338C1E10A2F4['response']); if ($R569981A9B29B5950206124A5933F6CB9) { if ($echo) { echo ' <font style="color:green;">'.__("OK", 'myarcadeplugin').'</font></p>'; } } else { if ($echo) { echo ' <font style="color:red;">'.__("Failed to decode the downloaded feed!", 'myarcadeplugin').'</font></p>'; F011F5FA6950FDD84A7242122BC8934C3(); } return false; } } break; case 'xml': { if ( F8D7A841BE2BAF925673E60D5753C8806() === FALSE ) { return false; } if ($echo) { ?>
+        <p class="mabp_info">
+          <?php echo __("Your Feed URL", 'myarcadeplugin').": <a href='".$url."'>".$url."</a>"; ?>
+        </p>
+
+        <p class="mabp_info">
+          <?php
+ echo __("Downloading feed", 'myarcadeplugin').': '; } $RF0EAC6DAF5B3AF677609338C1E10A2F4 = F6F8EB9DF17613F857E74D2C8D503672D($url); if ( !empty($RF0EAC6DAF5B3AF677609338C1E10A2F4['error']) ) { if ($echo) { echo '<font style="color:red;">'.__("ERROR", 'myarcadeplugin').': '.$RF0EAC6DAF5B3AF677609338C1E10A2F4['error'].'</font></p>'; } return false; } if ($RF0EAC6DAF5B3AF677609338C1E10A2F4['response']) { if ($echo) { echo '<font style="color:green;">'.__("OK", 'myarcadeplugin').'</font></p>'; } } else { if ($echo) { echo '<font style="color:red;">'.__("Can't download feed!", 'myarcadeplugin').'</font></p>'; F011F5FA6950FDD84A7242122BC8934C3(); } return false; } if ($echo) { ?><p class="mabp_info"><?php
+ echo __("Decode feed", 'myarcadeplugin').": "; } $R569981A9B29B5950206124A5933F6CB9 = simplexml_load_string($RF0EAC6DAF5B3AF677609338C1E10A2F4['response']); if ($R569981A9B29B5950206124A5933F6CB9) { if ($echo) { echo ' <font style="color:green;">'.__("OK", 'myarcadeplugin').'</font></p>'; } } else { if ($echo) { echo ' <font style="color:red;">'.__("Failed to decode the downloaded feed!", 'myarcadeplugin').'</font></p>'; F011F5FA6950FDD84A7242122BC8934C3(); } return false; } } break; default: { } break; } return $R569981A9B29B5950206124A5933F6CB9; } ?>

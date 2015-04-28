@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Popunder Popup\n"
+"POT-Creation-Date: 2014-08-03 00:46+0800\n"
+"PO-Revision-Date: 2014-08-03 00:46+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/popunder-register.php:45
+msgid "These tables could not be created on installation "
+msgstr ""
+
+#: ../classes/popunder-register.php:71 ../classes/popunder-register.php:72
+msgid "Popunder popup"
+msgstr ""
+
+#: ../page/popunder-add.php:29 ../page/popunder-add.php:95
+#: ../page/popunder-edit.php:44 ../page/popunder-edit.php:96
+msgid "Enter popunder popup url. url must start with either http or https."
+msgstr ""
+
+#: ../page/popunder-add.php:46
+msgid "New details was successfully added."
+msgstr ""
+
+#: ../page/popunder-add.php:50 ../page/popunder-edit.php:66
+msgid "Oops unexpected error occurred."
+msgstr ""
+
+#: ../page/popunder-add.php:80 ../page/popunder-edit.php:81
+msgid "Click here"
+msgstr ""
+
+#: ../page/popunder-add.php:81 ../page/popunder-edit.php:82
+msgid "to view the details"
+msgstr ""
+
+#: ../page/popunder-add.php:91
+msgid "Add details"
+msgstr ""
+
+#: ../page/popunder-add.php:93 ../page/popunder-edit.php:94
+#: ../page/popunder-show.php:58 ../page/popunder-show.php:70
+msgid "Popunder url"
+msgstr ""
+
+#: ../page/popunder-add.php:97 ../page/popunder-edit.php:98
+msgid "Start date"
+msgstr ""
+
+#: ../page/popunder-add.php:99 ../page/popunder-edit.php:100
+msgid "Please enter popunder start date in format YYYY-MM-DD"
+msgstr ""
+
+#: ../page/popunder-add.php:101 ../page/popunder-edit.php:102
+msgid "Expiration date"
+msgstr ""
+
+#: ../page/popunder-add.php:103 ../page/popunder-edit.php:104
+msgid "Please enter popunder expiration date in format YYYY-MM-DD"
+msgstr ""
+
+#: ../page/popunder-add.php:105 ../page/popunder-edit.php:106
+#: ../page/popunder-show.php:61 ../page/popunder-show.php:73
+msgid "Category"
+msgstr ""
+
+#: ../page/popunder-add.php:111 ../page/popunder-edit.php:123
+msgid "Select category for this popunder."
+msgstr ""
+
+#: ../page/popunder-add.php:113 ../page/popunder-edit.php:125
+#: ../page/popunder-show.php:62 ../page/popunder-show.php:74
+msgid "Width"
+msgstr ""
+
+#: ../page/popunder-add.php:130
+msgid "Select width percentage for popup window."
+msgstr ""
+
+#: ../page/popunder-add.php:132 ../page/popunder-edit.php:144
+msgid "Height"
+msgstr ""
+
+#: ../page/popunder-add.php:148
+msgid "Select height percentage for popup window."
+msgstr ""
+
+#: ../page/popunder-add.php:154 ../page/popunder-edit.php:167
+#: ../page/popunder-setting.php:36
+msgid "Submit"
+msgstr ""
+
+#: ../page/popunder-add.php:155 ../page/popunder-edit.php:168
+#: ../page/popunder-setting.php:37
+msgid "Cancel"
+msgstr ""
+
+#: ../page/popunder-add.php:156 ../page/popunder-edit.php:169
+#: ../page/popunder-setting.php:38 ../page/popunder-show.php:120
+msgid "Help"
+msgstr ""
+
+#: ../page/popunder-edit.php:12 ../page/popunder-show.php:16
+msgid "Oops, selected details doesnt exist."
+msgstr ""
+
+#: ../page/popunder-edit.php:62 ../page/popunder-setting.php:18
+msgid "Details was successfully updated."
+msgstr ""
+
+#: ../page/popunder-edit.php:92
+msgid "Update details"
+msgstr ""
+
+#: ../page/popunder-edit.php:142
+msgid "Select your width percentage for popup window."
+msgstr ""
+
+#: ../page/popunder-edit.php:161
+msgid "Select your height percentage for popup window."
+msgstr ""
+
+#: ../page/popunder-setting.php:24 ../page/popunder-show.php:119
+msgid "Session Setting"
+msgstr ""
+
+#: ../page/popunder-setting.php:26
+msgid "Session option (Global setting)"
+msgstr ""
+
+#: ../page/popunder-setting.php:32
+msgid ""
+"Select YES to show popunder once per session, Meaning, popup never appear "
+"again if user navigate to another page."
+msgstr ""
+
+#: ../page/popunder-show.php:31
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../page/popunder-show.php:44 ../page/popunder-show.php:118
+msgid "Add New"
+msgstr ""
+
+#: ../page/popunder-show.php:57 ../page/popunder-show.php:69
+msgid "Id"
+msgstr ""
+
+#: ../page/popunder-show.php:59 ../page/popunder-show.php:71
+msgid "Start"
+msgstr ""
+
+#: ../page/popunder-show.php:60 ../page/popunder-show.php:72
+msgid "Expiration"
+msgstr ""
+
+#: ../page/popunder-show.php:91
+msgid "Edit"
+msgstr ""
+
+#: ../page/popunder-show.php:93
+msgid "Delete"
+msgstr ""
+
+#: ../page/popunder-show.php:108
+msgid "No records available."
+msgstr ""
+
+#: ../page/popunder-show.php:124
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../page/popunder-show.php:126
+msgid "Add popup into specific  post or page using short code"
+msgstr ""
+
+#: ../page/popunder-show.php:127
+msgid "Add directly in to the theme using PHP code"
+msgstr ""

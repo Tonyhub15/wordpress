@@ -1,0 +1,14 @@
+html { cursor: default;}
+.fixheader { display: none; }
+#header { position: relative; margin-bottom: 15px; }
+a:hover { cursor: pointer; }
+span.icon:before { display: none; }
+.menu { float: left; margin-top: -60px; }
+.menu a.btn { padding: 8px 15px; }
+.menu ul.actions { margin-left: -110px; margin-top: 33px; padding: 0 10px; }
+.games, .games.w2 { width: 135px; height: 135px; margin-right: 5px; margin-bottom: 10px; }
+.games .playbttn, .games .gametitle { display: none; float: left; left: 0; }
+.games .gametitle { width: 113px; margin: 0 auto; }
+#footer { margin-top: 15px; }
+#footer .menu-footer ul { margin-top: -15px; }
+#footer .menu-footer ul li { list-style: none; display: inline-block; float: left; }

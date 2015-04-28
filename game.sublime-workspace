@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"important"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"fl",
+				"flexslider"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"fir",
+				"first_mark"
+			],
+			[
+				"m",
+				"menu"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"item",
+				"item_info"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"Post",
+				"postcode"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"phpin",
+				"phpinfo"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gamepostlist.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 224.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 548.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Downloads/upload_3.29/wp-content/uploads/export.csv",
+		"/C/Users/Administrator/Downloads/upload_3.29/wp-content/themes/profession/navbar.php",
+		"/C/Users/Administrator/Downloads/upload_3.29/wp-content/themes/profession/assets/css/custom.css",
+		"/C/Users/Administrator/Downloads/upload_3.29/wooandreisource.sql",
+		"/D/xampp/htdocs/wooandreisource/wp-config.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/assets/js/flexslider.js",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/assets/js/jquery.flexslider - Copy.js",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/assets/js/jquery.flexslider - Copy (2).js",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/assets/js/jquery.min.js",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/assets/js/jquery.flexslider.js",
+		"/C/Users/Administrator/Downloads/upload_3.29/wordpress.sql",
+		"/C/Users/Administrator/Downloads/wooandreisource.sql",
+		"/D/xampp/htdocs/wooandreisource/wp-content/plugins/megamenu/classes/widget-manager.class.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/plugins/megamenu/megamenu.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/plugins/megamenu/classes/nav-menus.class.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/rewind/header.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/rewind/search.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/search.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/sidebar-front.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/functions.php",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/rewind/style.css",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/profession/style.css",
+		"/D/xampp/htdocs/wooandreisource/wp-content/themes/rewind/functions.php",
+		"/D/xampp/htdocs/wpandreimattsource/wp-activate.php",
+		"/D/xampp/htdocs/wpandreimattsource/buttons.js",
+		"/D/xampp/htdocs/wpandreimattsource/wp-includes/SimplePie/Fileload.php",
+		"/D/xampp/htdocs/wpandreimattsource/wp-includes/adminindex.php",
+		"/D/xampp/htdocs/wpandreimattsource/imagemapper/adminindex.php",
+		"/D/xampp/htdocs/wpandreimattsource/sftp-config.json",
+		"/D/xampp/htdocs/wpandreimattsource/test.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/view.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/form.mini.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/custom.css",
+		"/D/xampp/htdocs/magryonsource/source_2.27/js/amasty/amshopby/amshopby-ajax.js",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/mobile/template/catalogsearch/result.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-2/addtocart.phtml",
+		"/D/xampp/htdocs/magryonsource/source_2.27/js/aw_ajaxcartpro/ajaxcartpro.js",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-2/ajaxcartpro.js",
+		"/D/xampp/htdocs/magryonsource/app/code/local/AW/Ajaxcartpro/Block/Confirmation/Addproduct.php",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/Observer.php",
+		"/D/xampp/htdocs/magryonsource/app/code/local/AW/Ajaxcartpro/Model/Observer.php",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/mobile/template/catalog/product/view.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/Package.php",
+		"/D/xampp/htdocs/magryonsource/app/code/core/Mage/Core/Model/Design/Package.php",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/AjaxController.php",
+		"/D/xampp/htdocs/magryonsource/app/code/local/AW/Ajaxcartpro/controllers/AjaxController.php",
+		"/D/xampp/htdocs/magryonsource/app/code/local/AW/Ajaxcartpro/Block/System/Config/Form/Field/Ajaxcartpro/Confirmation/Addproduct.php",
+		"/D/xampp/htdocs/magryonsource/app/code/core/Mage/Checkout/controllers/CartController.php",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/base/default/template/catalog/product/view.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/addtocart.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/1column.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/page.xml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/mobile/layout/page.xml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/mobile/layout/cms.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/head 2.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/header.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/mobile/layout/catalog.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/Design.php",
+		"/D/xampp/htdocs/magryonsource/app/code/core/Mage/Checkout/controllers/IndexController.php",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/mobile/js/iphone.js",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/mobile/js/dnd.js",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/mobile/css/custom.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/mobile/css/widgets.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/mobile/css/iphone.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/mobile/css/easytabs.css",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/amshopby.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/mobile/css/amshopby.css",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/base/default/template/page/html/notices.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/mobile/template/page/html/head.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/template/socialshare/body.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/base/default/template/googleanalytics/ga.phtml",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/css/responsive.css",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/mobile/template/page/1column.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/template/page/html/header.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/template/page/html/head.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/head.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/jquery.min.js",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/template/page/html/footer.phtml",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/css/styles.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/css/mobile.css",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/responsive.css",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/footer.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/mobile.css",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/styles.css",
+		"/D/xampp/htdocs/magryonsource/app/etc/local.xml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/template/page/html/header - Copy (2).phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/template/page/html/header - Copy.phtml",
+		"/D/xampp/htdocs/magryonsource/js/prototype/window.js",
+		"/D/xampp/htdocs/magryonsource/js/mw_js/jquery_noconflict.js",
+		"/D/xampp/htdocs/magryonsource/js/mw_js/jquery.js",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/template/webandpeople/custommenu/top.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/template/webandpeople/custommenu/menucontent.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/vitamins2you/default/layout/page.xml",
+		"/D/xampp/htdocs/magryonsource/skin/adminhtml/default/default/reset.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/advancedreviews/css/advancedreviews.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/ajaxcartpro/css/styles.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/ajaxcartpro/custom.js.sample",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/aw_featured/representations/slider/css/slider.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/aw_onestepcheckout/css/style.css",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/aw_onestepcheckout/customer/form/attributes.phtml",
+		"/D/xampp/htdocs/magryonsource/skin/frontend/vitamins2you/default/aw_onestepcheckout/onestep.phtml",
+		"/D/xampp/htdocs/magryonsource/app/design/frontend/base/default/layout/page.xml",
+		"/D/xampp/htdocs/magryonsource/DB/vy2dev23_v2u.sql",
+		"/D/xampp/htdocs/magryonsource/DB/vy2dev23_v2u_structure.sql",
+		"/D/xampp/htdocs/magryonsource/DB/vy2dev23_v2u_data.sql",
+		"/D/xampp/htdocs/magryonsource/DB/vy2dev23_v2u (1).sql",
+		"/D/oDesk_Work/Hired Data/Maciej/2015.1.23/rynowireless1.23/newreseller1.php",
+		"/D/oDesk_Work/Hired Data/Maciej/2015.1.23/rynowireless1.23/app/design/frontend/ves_nextstore/default/template/ves/megamenu/default.phtml",
+		"/D/oDesk_Work/Hired Data/Maciej/2015.1.23/rynowireless1.23/app/design/frontend/ves_nextstore/default/template/catalogsearch/form.mini.phtml",
+		"/D/oDesk_Work/Hired Data/Maciej/2015.1.23/rynowireless1.23/app/design/frontend/ves_nextstore/default/template/page/html/header.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/app/design/frontend/emmett/default/template/page/test.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/app/design/frontend/emmett/default/template/page/shirt.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/app/design/frontend/emmett/default/template/page/print.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/app/design/frontend/emmett/default/template/page/popup.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/app/design/frontend/emmett/default/template/page/must-have.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/app/design/frontend/emmett/default/template/page/made-to-measure-shirts.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/app/design/frontend/emmett/default/template/page/made-to-measure-new.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/app/design/frontend/emmett/default/template/page/lookbook.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/downloader/Maged/View.php",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/downloader/Maged/Model.php",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/downloader/Maged/Exception.php",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/downloader/Maged/Controller.php",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/downloader/template_de/install/writable.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/downloader/template_de/exception.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/downloader/template_de/noroute.phtml",
+		"/D/oDesk_Work/Hired Data/Anthony/2015.1.7(Minuco - Magento site maintenance )/BenSource/downloader/template_de/messages.phtml",
+		"/C/Users/Administrator/AppData/Local/Temp/fz3temp-1/config.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\wooandreisource\\wp-content\\plugins\\megamenu",
+			"D:\\xampp\\htdocs\\wooandreisource",
+			"C:\\Users\\Administrator\\Downloads\\upload_3.29",
+			"D:\\xampp\\htdocs\\wooandreisource",
+			"C:\\Users\\Administrator\\Downloads\\upload_3.29",
+			"D:\\xampp\\htdocs\\wooandreisource",
+			"D:\\oDesk_Work\\Hired Data\\Maciej\\2015.4.1(magento form)\\app",
+			"C:\\Users\\Administrator\\Downloads\\app",
+			"C:\\Users\\Administrator\\Downloads\\upload_3.29",
+			"D:\\xampp\\htdocs\\wooandreisource\\wp-content\\plugins\\megamenu",
+			"C:\\Users\\Administrator\\Downloads\\upload_3.29",
+			"D:\\xampp\\htdocs\\magryonsource",
+			"D:\\xampp\\htdocs\\magryonsource\\app",
+			"D:\\xampp\\htdocs\\magryonsource\\source_2.27",
+			"D:\\xampp\\htdocs\\magryonsource\\app",
+			"D:\\xampp\\htdocs\\magryonsource",
+			"D:\\xampp\\htdocs\\magryonsource\\app\\code\\local\\AW\\Ajaxcartpro",
+			"D:\\xampp\\htdocs\\magryonsource",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2015.1.7(Minuco - Magento site maintenance )\\BenSource\\app",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2015.1.7(Minuco - Magento site maintenance )\\BenSource",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2015.1.7(Minuco - Magento site maintenance )\\BenSource\\app",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2015.1.7(Minuco - Magento site maintenance )\\BenSource",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2014.11.6(Need help with Magento install - Clay Stephen)\\fakesource",
+			"C:\\Users\\Administrator\\Downloads\\app\\app",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2014.11.6(Need help with Magento install - Clay Stephen)\\fakesource",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2014.11.6(Need help with Magento install - Clay Stephen)\\fakesource\\app",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2014.11.6(Need help with Magento install - Clay Stephen)\\fakesource",
+			"D:\\xampp\\htdocs\\wordpress\\member",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2014.11.6(Need help with Magento install - Clay Stephen)\\fakesource\\app",
+			"D:\\xampp\\htdocs\\wordpress\\member\\wp-content",
+			"D:\\xampp\\htdocs\\wordpress\\member",
+			"D:\\oDesk_Work\\Hired Data\\Jacek\\2014.10.27\\member\\wp-admin",
+			"D:\\oDesk_Work\\Hired Data\\Jacek\\2014.10.27\\member",
+			"D:\\oDesk_Work\\Hired Data\\Jacek\\2014.10.27\\members-2",
+			"D:\\oDesk_Work\\Hired Data\\Jacek\\2014.10.27\\member\\wp-admin",
+			"D:\\oDesk_Work\\Hired Data\\Jacek\\2014.10.27\\member",
+			"D:\\oDesk_Work\\Hired Data\\Anthony\\2014.11.1(float menu)\\backup",
+			"D:\\xampp\\htdocs\\maganthony1023",
+			"D:\\xampp\\htdocs\\magstagingsource",
+			"D:\\xampp\\htdocs\\magstagingsource\\app",
+			"D:\\xampp\\htdocs\\magstagingsource"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"megaMenu",
+			"megamenu.scss",
+			"header(\"Loca",
+			"header(",
+			"header",
+			"head",
+			"header",
+			"megamenu_css",
+			"megamenu",
+			"megamenu_css",
+			"http://localhost/wooandreisource",
+			"focus_content",
+			"flexslider",
+			"add_action",
+			"list-style: none outside none !important;",
+			"http://localhost/wordpress",
+			"wp_enqueue_script",
+			"flexslider",
+			"flexslider.php",
+			"jquery.min.js",
+			"jQuery JavaScript Library v1.6.2",
+			"Please make sure your passwords match",
+			"col-xs-6",
+			"http://consultingdemowebpage.com",
+			"http://104.238.100.6/~upperandrei",
+			"mega-menu-toggle-primary",
+			"http://www.upperandrei.com.br",
+			"http://localhost/wooandreisource",
+			"register_",
+			"register_my_menus",
+			"wp_table_reloaded_remove_css_version",
+			"#",
+			"amshopby-page-cont",
+			"amshopby",
+			"append",
+			"alert",
+			"order",
+			"asc",
+			"desc",
+			"sort-by",
+			"amshopby",
+			"amshopby-page-conta",
+			"stripSearchQuery",
+			"getQueryParamName",
+			"addProductConfirmationEnabled",
+			"ajaxcartpro-box",
+			"productAddToCartForm",
+			"ajaxcartpro-box-hide",
+			"ajaxcartpro-add-confirm",
+			"ajaxcartpro-box-show",
+			"before",
+			"ebfo",
+			"ebfore",
+			"addproduct",
+			"add",
+			"redirect",
+			"addAc",
+			"productAddToCartForm",
+			"switchTemplate",
+			"isMobile",
+			"is_Mobile",
+			"is_",
+			"isMobile",
+			"ajaxcartpro-add-confirm",
+			"function add",
+			"addContr",
+			"add",
+			"productAddToCartForm",
+			"logo",
+			".product-view .product-shop .short-description",
+			".product-view .product-shop .social_buttons",
+			".product-view .product-shop",
+			".wrapper",
+			"bottom_txt",
+			"featured_pro",
+			".block.block-recent-posts",
+			"unNecessary_button",
+			"footer-secure",
+			".awis-block.awis-r-default",
+			".awis-slides-container .awis-r-default-item",
+			"form-search",
+			"enu-mobile-28",
+			".wp-custom-menu-submenu",
+			".wp-custom-menu-submenu .parentMenu a.itemMenuName",
+			"home-textile-magento-template/accessories-magento-template.html",
+			"http://green-magento-template.web-experiment.info/home-textile-magento-template/accessories-magento-template.html",
+			"Home Décor",
+			"mobile-18",
+			"supplements",
+			".col1-layout .col-main",
+			"ewpagecache_footer_widget",
+			"http://www.vitamins2you.com/ocean-blue-professional",
+			"wp",
+			"Observer.php",
+			"success",
+			"this is",
+			"this",
+			"test",
+			"this",
+			"here",
+			"Observer.php",
+			"review-buttons-container",
+			"input-box storepickup-box",
+			"select-store",
+			"early_date_nonce",
+			"input-box storepickup-box",
+			"select-style",
+			"store_id",
+			"input-box storepickup-box",
+			"select-store",
+			"errors && !$attribute->getIsRequired()",
+			"errors report",
+			"errors",
+			"telephone",
+			"tele",
+			"getatt",
+			"getAttribute",
+			"length must be equal or greater",
+			"teleph",
+			"<input",
+			"telephone",
+			"name=\"billing[telephone]\"",
+			"validate",
+			"valida",
+			"phoneStrict",
+			"phone",
+			"tele"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://104.238.100.6/~upperandrei",
+			"http://cloud-storm.net",
+			"http://consultingdemo.webpage.com",
+			"http://consultingdemowebpage.com",
+			"http://104.238.100.6/~upperandrei",
+			"http://www.upperandrei.com.br",
+			"<ul style=\"display: block;\">",
+			"",
+			"loc.maganthony1023.com",
+			"loc.magstagingsource.com",
+			"http://loc.magstagingsource.com",
+			"loc.magstagingsource.com",
+			"http://loc.magstagingsource.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gamepostlist.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 344.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true
+}

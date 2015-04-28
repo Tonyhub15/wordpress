@@ -1,0 +1,453 @@
+v5.15.1 - 2014-09-13
+  - New: WordPress 4.0 compatibility
+  - New: Create required directories on settings update and not only on plugin activation/update
+  - Fix: BuddyPress activity stream integration
+  - Fix: Site admins can't verify license key on multisite network installation
+  - Fix: Game URL creation on PHPB/ZIP import
+
+v5.15.0 - 2014-08-22
+  - New: Multisite network support
+  - New: Gamepix feed integration (http://gamepix.com)
+  - New: ArcadeGameFeed integration (http://arcadegamefeed.com)
+  - New: Moved 2PG feed to an own section
+  - New: Import IBPArcade games witch require PHPBB to be installed
+  - New: Option to manage scores for particular games (Post -> Edit -> MyArcadePlugin Game Scores)
+  - New: Display MyArcade Game Details post meta only if the current post is a game
+  - New: Function 'is_leaderboard_game' to check if the game supports score submissions
+  - New: Moved MyArcadePlugin upload folders to WordPress upload folder (wp-content/uploads/games, wp-content/uploads/thumbs). This was required for the multi site support.
+  - New: Video URL field on import games form
+  - New: Serbian translation submitted by Ogi (http://firstsiteguide.com)
+  - New: Display custom taxonomies on game import form if custom post type is activated
+  - New: Display MyArcade Game Details meta box on custom post types
+
+v5.14.2 - 2014-06-29
+  - New: Option to select Iframe games on "Publish Games" page
+  - New: Action when a game post has been created to allow users to add additional data to the post
+    - do_action( 'myarcade_post_created', $post_id );
+  - Fix: Import embed games where the embed code contains line breaks
+  - Fix: Sanitize description and instruction fields correctly
+
+v5.14.1 - 2014-06-01
+  - Fix: Don't try to download Iframe games
+  - Fix: GamerSafe score submission with SWF Object enabled
+
+v5.14.0 - 2014-05-25
+  - New: GamerSafe Data Bridge integration
+  - New: GamerSafe option on import games form
+  - New: GamerSafe option on edit games page
+  - New: GamerSafe option on Game Data Meta Box
+  - New: FlashGameDistribution (FGD) - Fetch GamerSafe games
+  - New: Spilgames - Game Player API integration. Can be enabled on MyArcade -> Spilgames Settings
+  - New: Spilgames - Offset fetching
+  - New: FreeOnlineGames (FOG) - Fetch Unity games
+  - New: FreeOnlineGames (FOG) - Unity games category
+  - New: MyArcadeFeed - Unity and Iframe game types added
+  - New: Iframe codes are not stored directly anymore while fetching. Only the URL is stored and the code will be generated automatically
+  - New: Custom game type: Iframe URL. Just enter a URL of a game or page which should be embedded. The Iframe code will be generated automatically
+
+v5.13.0 - 2014-05-14
+  - New: Updated to Spilgames Feed API v3
+  - New: Added original Big Fish Games categories (see Big Fish Settings)
+  - New: Category mapping for Big Fish Games
+  - New: Display an error message on fetching Big Fish Games without an affiliate user name
+  - New: Display an error message on fetching Big Fish Games without active categories
+  - New: Filter to manipulate game images before they get added
+    - apply_filters( 'myarcade_filter_game_code', $game_code, $game_type );
+    - apply_filters( 'myarcade_filter_thumbnail', $thumbnail_url )
+    - apply_filters( 'myarcade_filter_screenshot', $screenshot_url, $screenshot_number );
+  - New: Video URL field on MyArcade Game Details meta box
+  - New: Updated Shockwave embed parameters
+  - Fix: Game dimensions are not stored correctly for Iframe/Embed games (Import games page)
+  - Fix: IBPArcade score submission
+  - Fix: UnityFeeds URL on settings page
+  - Fix: Query scores on Manage Scores page
+  - Fix: Automated fetching / publishing with WordPress Cron
+  - Fix: Category mapping for GameFeed AutoPublisher by TalkArcades
+
+v5.12.0 - 2014-04-21
+  - New: UnityFeeds integration
+  - New: Arabic language file
+  - Fix: Unity3D Fullscreen
+  - Fix: IBPArcade game store zero scores
+
+v5.11.1 - 2014-04-09
+  - Fix: Default game post template
+
+v5.11.0 - 2014-04-01
+  - New: Manual import of Mochi ZIP games (Mochi Legacy)
+  - New: Option to enable all categories on MyArcadeFeed
+  - New: Draft button on Manage Games page
+  - New: Publish manual imported games automatically (Cron)
+  - New: Scirra Feed: "Example" category mapped to "Other"
+  - New: Scirra: Don't add games that are marked as deleted
+  - New: Removed MySQL functions which are not compatible with MySQLi
+  - Fix: Don't query the game table on IBPArcade score submission.
+  - Fix: Spilgames - thumbnail: use bigger image if small image is not available
+  - Fix: MyArcadeFeed game type recognition
+  - Fix: MyArcadeFeed sanitize feed entries
+  - Fix: Manage Scores - Get games independent of MYARCADE_GAME_TABLE
+  - Fix: FlashGameDistribution - clean tags while fetching
+  - Removed Mochi Media support: Service has been discontinued
+
+v5.10.2 - 2014-01-16
+  - New: FOG Feed: Option to select different languages
+  - Fix: Publishing HTML5 Games from Spilgames
+  - Fix: Scirra game fetching
+  - Tweak: Installation process optimization
+
+v5.10.1 - 2014-01-05
+  - Fix: Correct control fields while fetching Mochi Media games
+  - Fix: CSS fix for WordPress 3.8
+
+v5.10.0 - 2013-11-11
+  - New: Updated MyArcadeFeed to handle embed / iframe games
+  - New: MyArcadePlugin feed url added to MyArcadeFeed which will contain some exlusive games
+  - New: 2PG feed url added to MyArcadeFeed (multiplayer games)
+  - New: Spilgames - updated feed categories (Cooking Games, Match-3 Games, HTML5 Games, Sudoku Games)
+  - New: Spilgames - Fetch and Embed HTML5 games
+  - New: SWFObject integration (MyArcade -> General Settings -> Use SWFObject)
+  - New: Filter to change SWFObject flashvars (myarcade_swfobject_flashvars)
+  - New: Filter to change SWFObject parameters (myarcade_swfobject_params)
+  - New: Filter to change SWFObject attributes (myarcade_swfobject_attributes)
+  - New: Filter to change feed URL while fetching games (myarcade_fetch_url)
+
+v5.9.4 - 2013-08-31
+  - New: Filter to change game author (myarcade_filter_post_author)
+  - New: Filter to change swf embed parameters (myarcade_embed_parameters)
+  - Fix: Microsoft Translator error handling
+  - Fix: "No Game ID" error on some special servers
+  - Playtomic support removed because they closed their distribution API
+
+v5.9.3 - 2013-07-30
+  - New: WordPress 3.6 compatibility
+  - New: Updated GameFeed AutoPublisher by TalkArcades
+  - New: Updated Mochi Media game category handling to check for primary category first
+  - New: Updated Mochi Media method to fetch featured games
+  - New: Uncategorized games from Spilgames feed will be added to "Other" category
+  - Fix: Game Files / Images can't be uploaded on the import form on some servers
+  - Fix: Typo on fetching games page
+
+v5.9.2 - 2013-04-27
+  - Fix: Fetching with multiple Mochi Media tags
+  - Tweak: Overwrite old Mochi Media Feed URL with the new one on plugin update
+
+v5.9.1 - 2013-04-07
+  - New: Updated Mochi Media feed integration
+  - New: Playtomic feed workaround on missing SWF urls
+  - Fix: Sanitize option values
+
+v5.9.0 - 2013-03-31
+  - New: Unity3D Import Method (Upload .unity3d games)
+  - New: GameFeed AutoPublisher by TalkArcades
+  - New: Import games uploaded via FTP
+  - New: Improved error handling in JavaScript
+  - New: File size check before game uploads
+
+v5.8.1 - 2013-02-26
+  - Fix: Restored name of is_game function
+
+v5.8.0 - 2013-02-24
+  - New: Pay to Play - CubePoints
+  - New: Achievements for WordPress Support - http://wordpress.org/extend/plugins/achievements/
+  - New: 3 New Languages for Microsoft Translator (Bulgarian, Catalan, Persian)
+  - New: Updated Mochi Feed URL
+  - New: Filters to manipulate game width and height
+  - Fix: FreeFamesForYourWebsite (FOG) game downloads
+  - Fix: IBPArcade score submitting
+
+v5.7.0 - 2012-12-01
+  - New: Option to organize files in sub folders
+  - New: FreeGamesForYourWebsite Feed updated to the new structure
+  - New: Improved unique file name generation
+  - New: Don't add post meta fields if there are no data available
+  - New: Publish Games directly from edit games form
+  - New: Add game slug to post meta
+  - New: Filter game dimensions in full screen mode (myarcade_fullscreen_width, myarcade_fullscreen_height)
+  - New: Filter game categories on post creation (myarcade_filter_category) - apply_filters( 'myarcade_filter_categories', $game->categories, $game );
+  - New: Filter game tags on post creation (myarcade_filter_tags) - apply_filters( 'myarcade_filter_tags', $game->tags, $game );
+  - New: Display custom taxonomies on game edit page if custom post type is activated
+  - New: WordPress 3.5 compatibility
+  - Fix: Language selection on Google translator
+  - Fix: Mochi Auto Post
+  - Fix: Cron publishes every time the same game when "Featured Image" is activated
+
+v5.6.4 - 2012-10-13
+  - New: Extended debugger class to log translation API requests
+  - Fix: Plugin localization / translation (use prefix on .mo files: myarcadeplugin-de_DE.mo)
+  - Fix: Leaderboard doesn't refresh if there is already a highscore available
+  - Fix: Wrong external cron URL displayed on MyArcadePlugin Dashboard
+  - Fix: User ID not set properly on cron publishing
+  - Fix: MyArcadeFeed handling
+
+v5.6.3 - 2012-09-08
+  - New: Placeholder %THUMB_URL% for game post template
+  - New: Placeholder %SWF_URL% for game post template
+  - New: Placeholders %WIDTH% and %HEIGHT% for game post template (Game dimensions)
+  - New: Image alt tag in default post template
+  - New: Option to disable game tags
+  - Fix: Save description on MyArcadePlugin Game Details (Meta Box)
+
+v5.6.2 - 2012-08-04
+  - Fix: Post status not set correctly
+
+v5.6.1 - 2012-07-24
+  - Fix: Load feed categories after plugin activation
+
+v5.6.0 - 2012-07-20
+  - New: BigFish Games Integration
+  - New: Scirra Arcade Integration
+  - New: MyArcadeFeed Integration
+  - New: Google Translate API v2 (payed service)
+  - New: Microsoft Translator v2 - Windows Azure Marketplace (free and payed service)
+  - New: Ajax Powered Game Publishing
+  - New: Game Filter on Publish Games Panel
+  - New: Scores Management Panel (edit, delete single scores)
+  - New: Enhanced automated game fetching
+  - New: Enhanced automated game publishing
+  - New: Support for "real" cron jobs which can be triggered externally
+  - New: Additional checks to avoid duplicate games
+  - New: Option to set a game play delay time
+  - New: Set Cubepoints for achieving medals
+  - New: Options on BuddyPress user settings to enable / disable auto posting to activity stream
+  - New: MyArcadePlugin Theme API included in the Plugin (for theme developers)
+  - New: Several actions an filters added (see online documentation)
+  - New: Option to restore default settings
+  - New: Show game description on the MyArcadePlugin Meta Box
+  - New: Update BuddyPress activity stream when user adds a game to favorites
+  - Fix: Edit of Iframe / Embed Codes from MyArcadePlugin Meta Box
+
+v5.5.1 - 2012-05-07
+  - Fix: Drop down doesn't show category names
+
+v5.5.0 - 2012-04-29
+  - New: Support for Mochi Game Catalog 2.0 Feed URLs
+  - New: Custom taxonomies selection for categories and tags
+  - New: Update highscore date on new highscore
+  - New: Option to edit game tag and game type on Manage Games panel
+  - New: User Profile link will be added to the mochi Mochi Leaderboard when BuddyPress/Mingle is activated
+  - New: Mochi Leaderboard JS file will be automatically embedded on custom themes
+  - New: MyArcadePlugin Meta Box on WP Posts write panel.
+  - Fix: Game instructions doesn't accept new line and HTML code
+
+v5.4.1 - 2012-03-18
+  - New: Compatibility with PHP 5.4
+  - New: Improved game slug generation (file names will contain only alphanumeric characters)
+  - Fix: Display game categories on "Fetch Games" panel.
+  - Fix: MyArcade link on admin bar doesn't work
+
+v5.4.0 - 2012-02-14
+  - New: Game Distributor Spilgames http://publishers.spilgames.com/
+  - New: Game Distributor FOG http://www.freegamesforyourwebsite.com/feeds.php
+  - New: MyArcadeContest API
+  - New: BuddyPress Activity Stream update when user submits scores
+  - New: BuddyPress Activity Stream update when user achieves a medal
+  - New: Improved %TAGS% placeholder processing
+  - New: Filter games without a search term
+  - New: Option to limit search results on "Manage Games" page
+  - New: Display post details of published games on "Manage Games" page
+  - New: Two categories addeed: Arcade, Defense
+  - New: Display game distributors on "Manage Games" page
+  - New: Improved Settings documentation ( Thx to Bob - http://copacet.com/ )
+  - Fix: Delete game files when a post gets deleted
+
+v5.3.2 - 2011-12-26
+  - Fix: Featured image WP 3.3 fix
+
+v5.3.1 - 2011-12-17
+  - Fix: Admin Bar issue with WP 3.3
+  - Fix: Cleaned up the manage games output
+
+v5.3.0 - 2011-11-27
+  - New: Option to select the post status for Mochi autopost games
+  - New: Option to select categories on "Manage Games"
+  - New: Extended Action-API for future extensions
+  - New: Confirmation dialog when try to delete all games / scores
+  - New: Performance tweaks to speed up the plugin and to reduce memory usage
+  - New: Option to add game thumbnails as WordPress featured images
+  - New: Option to edit game width and height from manage games panel
+  - New: Game categories will be displayed on each game box in the back-end
+  - New: Warning if translations are enabled but Application ID not entered
+  - New: Content will not be translated if Application ID is missing
+  - Fix: Translation Improvements
+  - Fix: Sanitize text areas on edit and import form
+  - Fix: User level permissions when allowing user to  submit games
+  - Removed HeyZap support because HeyZap closed the distribution API
+
+v5.2.0 - 2011-10-29
+  - New: Automated Game Translation System with Bing Translation API
+  - New: Improved "Manage Games" page
+  - New: "Edit Post" button on "Manage Games" page for published games
+  - Fix: rn Error when editing a game
+  - Fix: Games from categories with special characters are published under "Uncategorized"
+  - Fix: Playtomic feed parameter updated
+
+v5.1.0 - 2011-10-08
+  - New: Auto update
+  - New: Import FlashGameDistribution Games
+  - New: Playtomic leaderboard selection on fetch games page
+  - New: Updated WP Admin Bar Menu
+  - Fix: String escape for Post Template (rn Error)
+  - Fix: Playtomic audience values
+
+v5.0.0 - 2011-09-15
+  - New: New infrastructure to make the plugin faster and future enchantments easier
+  - New: Import PHPBB Games
+  - New: Import Kongregate games
+  - New: Import Playtomic games
+  - New: CubePoints support (point system)
+  - New: Real game play counter per user
+  - New: User Leaderboard
+  - New: Force user to register after defined number of plays
+  - New: Two additional template variables added: %TITLE%, %TAGS% (tags without links)
+  - New: Option to remove all games from the database that are marked as "deleted"
+  - New: Improved scores handling for Mochi and IBPArcade Games
+  - New: Improved manual game import
+  - New: Option to publish games in a custom post type
+  - New: Score Actions for developers to integrate own functions with MyArcadePlugin
+  - Fix: CSS fix on fetch games site
+  - Fix: Category Mapping don't work when "Use Only The First Category" is checked
+
+v4.2.0 - 2011-03-20
+  - New: Fetch HeyZap embed games
+  - New: Added MyArcade menu to the WP Admin Bar
+  - New: Option to edit highscore settings on Manage Games
+  - Fix: Leaderboard code not shown on some themes
+  - Fix: Some css fixes
+
+v4.1.0 - 2011-02-26
+  - New: Mochi Publisher ID will be added to the game code to get credits
+  - New: HeyZap Site_Key will be added to the game code to get credits
+
+v4.0.1 - 2011-01-30
+ - Fix: Mochi Auto Post saves games as draft instead to publish them
+ - Fix: Cron saves games as draft instead to publish them
+ - Fix: HeyZap - Remove 'sitekey' parameter from swf url
+ - Fix: Blank page when submit IBPArcade v2 scores
+ - Fix: Wrong UserID when other member import games
+ - Fix: Mochi Leaderboard Bridge is included on non-mochi games
+
+v4.0.0 - 2011-01-17
+ - New: New look & feel of the settings page. Now, the setup will be more comfortable.
+ - New: Mochi Bridge enhancement. Submitted medals will be saved.
+ - New: Ajaxed Category-Mapping - map Mochi/HeyZap categories to your own category names
+ - New: Save urls to gameplay videos that Mochi provides with some games. Videos are hosted on Vimeo, YouTube or WeGame.
+ - New: Import DCR Games
+ - New: Detect dimensions of SWF files automatically on import
+ - New: Save scores for IBPArcade v2, v3 and v32
+ - New: Option to save posts as draft
+ - New: Option to enable only highscore submitting. Only the highest score of an user per game will be saved.
+ - New: Session management
+ - New: Default values for HeyZap settings
+ - New: Completely rewritten HeyZap integration. Everything adopted to HeyZap API v2
+ - New: Download for HeyZap games and screen shots
+ - New: Use only the first category option to avoid game publishing in more categories.
+ - New: Option to create game categories as subcategories of a parent category.
+ - New: Grab games (SWF, DCR or IBPArcade) from other sites with URLs
+ - New: Ajaxed game import modules
+ - New: Delete blank/zero scores
+ - New: Delete all scores
+ - New: Allow Contributors, Editors and Authors to import games
+ - New: Tag filter for the Mochi's feed
+ - Fix: Import IBPArcade v32 games
+ - Fix: Unable to create 'Life & Style' category
+ - Fix: 'headers already sent' warning
+
+v3.0.2 - 2010-09-29
+  - Fix: Publish Button doesn't work on the "Manage Games" page since v3.0.1
+
+v3.0.1 - 2010-09-18
+  - New: Plugin renamed to MyArcadePlugin Pro
+  - Fix: Unable to feed Board Game Category
+
+v3.0.0 - 2010-07-22
+  - New: Cron feeding for HeyZap games
+  - New: Check if HeyZap max. width is set. If not, the width will be set to 800px while feeding games
+  - New: Delete game scores when deleting a game
+  - New: New Import Method: Embed Codes
+  - New: New Import Method: Iframe Codes
+  - New: Pagination on manage games. Ability to browse the entire game catalog
+  - Fix: WP 3.0 warning when activate the plugin
+  - Fix: WP 3.0 no duplicate categories when save settings
+  - Fix: WP 3.0 no warnings when a category is already present
+  - Fix: When use custom import method, category selection doesn't work
+  - Fix: Wrong categories after publishing of edited games from game manager
+  - Fix: When use IBPArcade import method, category selection doesn't work
+  - Fix: MySQL query fix to speed up "Add games to blog" (Thx Irwanto)
+
+v2.6.0 - 2010-05-01
+  - New: Ability to edit games before publishing
+  - New: Support for HeyZap games
+  - New: Offset feeding for HeyZap games
+
+v2.5.0 - 2010-04-12
+  - New: Option to embed flash code automatically
+  - New: Template to style the posts created by MyArcadeBlog Pro
+
+v2.4.0 - 2010-03-28
+  - New: Offset feeding
+  - New: Alternative file_put_contents function
+  - New: Memory limit check before trying to change the value
+  - New: Safe Mode check before setting up the environment to avoid error messages
+  - Edit : Increased memory limit to 256M
+  - Fixed: Renamed post meta's to avoid conflicts with other plugins (All In One Seo)
+
+v2.3.0 - 2010-01-11
+  - New: Gettext support to make translations easy
+  - New: Option to publish games in a single category
+  - Fixed: get_game doesn't work for unpublished games
+
+v2.2.0 - 2009-12-21
+  - New: Mochimeda Leaderboard Support
+  - Fixed: Error message when choosing a special category
+  - Fixed: MySQL Table update error
+
+v2.1.0 - 2009-12-13
+  - New: WP-Cron to feed games automatically
+  - Fixed: Some css style errors
+
+v2.0.0 - 2009-12-01
+  - New: Delete game files when deleting a game post
+  - New: Import function for IBP-Arcade games
+  - New: Game management system (delete, publish, destroy)
+  - New: Autopost from Mochimedia website
+  - New: Screenshot feed and upload
+  - New: Feed special categories (Premium, Featured, ...)
+
+v1.8.0 - 2009-09-22
+  - Added new categories: Education, Rhythm, Strategy
+  - Removed category: Highscore
+  - Added new check for duplicate games
+  - Added new custom field for content rating ("rating")
+
+v1.7.1 - 2009-08-09
+  - Fixed Board Games and Dress-Up problem
+
+v1.7.0  - 2009-07-26
+  - Added option to reset feeded games
+  - Added an import function for custom/individual games
+
+v1.6.0  - 2009-07-15
+  - Bug fixing
+  - Added max. allowed game width
+
+v1.5.0  - 2009-07-01
+  - Game thumbnails will be shown when adding games to blog
+  - Check, if Feed has been downloaded successfully
+  - SWF file names will be decoded before storing (%20-problem)
+  - White spaces will be automatically removed from MochiadsURL and MochiadsID
+
+v1.4.0  - 2009-06-20
+  - Added routines to check PHP Version and PHP Settings (JSON Support)
+
+v1.3.0  - 2009-06-17
+  - Fixes
+
+v1.2.0  - 2009-06-16
+  - Fixed some error messages.
+
+v1.1.0  - 2009-06-15
+  - Added new download method for feed, games and thumbs. if allow_url_fopen is
+    set to 0 the plugin will use cURL for downloading files.
+
+v1.0.0  - 2009-06-14
+  Initial Version

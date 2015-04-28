@@ -1,0 +1,1977 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FunGames\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-26 18:07+0100\n"
+"PO-Revision-Date: 2013-03-26 18:07+0100\n"
+"Last-Translator: MyArcadePlugin <contact@myarcadeplugin.com>\n"
+"Language-Team: MyArcadePlugin <contact@myarcadeplugin.com>\n"
+"Language: en_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: w:\\myarcadeplugin\\wp-content\\themes\\fungames\n"
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/404.php:6
+msgid ""
+"404 - Sorry, Can't find that Game. But maybe you like one of these games:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive-contest.php:17
+#: w:\myarcadeplugin\wp-content\themes\fungames/search.php:19
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog.php:20
+msgid "Permanent Link to"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive-contest.php:31
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog.php:34
+msgid "Read more about"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive-contest.php:31
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog.php:34
+msgid "Read more"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive-contest.php:43
+msgid "Older contests &laquo;"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive-contest.php:44
+msgid "&raquo; Newer contests"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive-contest.php:51
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:70
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-play.php:17
+#: w:\myarcadeplugin\wp-content\themes\fungames/single.php:22
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog.php:54
+msgid "Not Found"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive-contest.php:54
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:71
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog.php:57
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:18
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:20
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:22
+msgid "Archive for"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:26
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:30
+msgid "Blog Archives"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/archive.php:28
+msgid "Browse by tag:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/breadcrumb.php:3
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:570
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog-post.php:10
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-fullwidth.php:10
+msgid "You Are Here: "
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:7
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:29
+msgid "No Comments"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:29
+msgid "One Comment"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:29
+msgid "% Comments"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:34
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:93
+msgid "TrackBacks / PingBacks"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:47
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:122
+msgid "Comments are closed."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:67
+msgid "No comments filed"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:67
+msgid "One comment"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:67
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:67
+msgid "to"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:71
+msgid "Comment by"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:73
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:110
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:78
+msgid "Edit"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:103
+msgid "Trackback"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/comments.php:105
+msgid "Pingback"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/featured_slider.php:1
+msgid "Featured Games"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:132
+#: w:\myarcadeplugin\wp-content\themes\fungames/slider.php:28
+#: w:\myarcadeplugin\wp-content\themes\fungames/slider.php:32
+msgid "Play"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:133
+msgid "Play Game"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:320
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:322
+msgid "The first footer widget area"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:331
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:333
+msgid "The second footer widget area"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:342
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:344
+msgid "The third footer widget area"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:353
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:355
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:402
+msgid "Home"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:592
+msgid "Older games &laquo;"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:593
+msgid "&raquo; Newer games"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:647
+msgid "Howdy!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/functions.php:647
+#, php-format
+msgid ""
+"There is an active contest available for this game. Click %shere%s to join "
+"the contest!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-buttons.php:5
+msgid "Fullscreen"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-buttons.php:11
+msgid "Turn lights off / on"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-buttons.php:11
+msgid "Lights Toggle"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-random.php:2
+msgid "Random Games"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:16
+msgid "Loading..."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:37
+msgid "No games found"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:49
+msgid "Sort by"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:51
+msgid "Newest First"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:52
+msgid "Oldest First"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:54
+msgid "Highest Rated"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:57
+msgid "Most Played"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:59
+msgid "Most Discussed"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:60
+msgid "Alphabetically (A-Z)"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/games-sortable.php:61
+msgid "Alphabetically (Z-A)"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/header.php:18
+msgid "Page not found"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/header.php:20
+msgid "Search results for"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/header.php:43
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:90
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/activity.php:3
+msgid "RSS Feed"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/header.php:127
+msgid "Search For Games..."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/index-Full.php:39
+#: w:\myarcadeplugin\wp-content\themes\fungames/index-Half.php:39
+#: w:\myarcadeplugin\wp-content\themes\fungames/index-Horizontal.php:31
+#: w:\myarcadeplugin\wp-content\themes\fungames/index-Miniclip.php:42
+#: w:\myarcadeplugin\wp-content\themes\fungames/index-Vertical.php:43
+#: w:\myarcadeplugin\wp-content\themes\fungames/related.php:2
+#: w:\myarcadeplugin\wp-content\themes\fungames/yarpp-template-related.php:9
+msgid "More Games"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:11
+msgid "Register, upload AVATAR, save SCORES, meet FRIENDS!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:15
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:37
+msgid "Username"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:19
+msgid "Password"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:23
+msgid "Remember me"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:33
+msgid "Welcome back,"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:43
+msgid "Activity Stream"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:43
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:60
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:63
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:73
+msgid "Activity"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:45
+msgid "View Your Profile Page"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:45
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:67
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:64
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:82
+msgid "Profile"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:47
+msgid "Change Your Settings"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:47
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:65
+msgid "Settings"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:49
+msgid "View Your Friends"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:49
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:283
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:66
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:80
+msgid "Friends"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:51
+msgid "Add New Friends"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:51
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:67
+msgid "Friend Requests"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:53
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:68
+msgid "Inbox"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:64
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:229
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:75
+msgid "Members"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:70
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:84
+msgid "My Scores"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:79
+msgid "Log in"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/loginform.php:81
+msgid "Log out"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/page.php:24
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog-post.php:34
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-fullwidth.php:34
+msgid "Read more.."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/page.php:38
+#: w:\myarcadeplugin\wp-content\themes\fungames/search.php:63
+msgid "Sorry, Can't find that Game. But maybe you like one of these games:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/search.php:12
+msgid "Search Results"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/search.php:45
+msgid "Play Now"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/searchform.php:4
+msgid "GO"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/sidebar.php:20
+msgid "This is your Game Sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/sidebar.php:34
+msgid "This is your Page Sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/sidebar.php:48
+msgid ""
+"This is your Category Sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/sidebar.php:63
+msgid "This is your Home Sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-content.php:35
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-pre-game.php:40
+msgid "Game Stats"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-content.php:46
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-pre-game.php:51
+msgid "Screen Shots"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-content.php:54
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-pre-game.php:59
+msgid "Game Tags"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-content.php:57
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-pre-game.php:62
+msgid "Game Categories"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-content.php:85
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-pre-game.php:85
+msgid "Do You Like This Game?"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-content.php:86
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-pre-game.php:86
+msgid "Embed this game on your MySpace or on your Website:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-fullscreen.php:47
+msgid "Go Back To"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/single-play.php:18
+#: w:\myarcadeplugin\wp-content\themes\fungames/single.php:23
+msgid ""
+"I'm Sorry, you are looking for something that is not here. Try a different "
+"search."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog-post.php:51
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-fullwidth.php:51
+msgid "Oops.. Nothing Found!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog-post.php:55
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-fullwidth.php:55
+msgid ""
+"I think what you are looking for is not here or it has been moved. Please "
+"try a different search.."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog.php:46
+msgid "Older posts &laquo;"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/template-blog.php:47
+msgid "&raquo; Newer posts"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/activity-loop.php:41
+msgid "Load More"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/activity-loop.php:55
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/comment.php:27
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/comment.php:37
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/edit.php:10
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/comment.php:43
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/messages-loop.php:50
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/single.php:24
+msgid "Delete"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/entry.php:37
+msgid "In reply to: "
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/entry.php:37
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/entry.php:37
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:27
+msgid "View"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/entry.php:60
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/entry.php:68
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:28
+msgid "Favorite"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/entry.php:72
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:29
+msgid "Remove Favorite"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/entry.php:104
+msgid "Post"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/entry.php:104
+msgid "or press esc to cancel."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:22
+msgid "Site Activity"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:42
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:42
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/index.php:35
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:52
+msgid "The activity of my friends only."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:52
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/index.php:39
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:64
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:64
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:41
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:74
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:74
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:80
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:80
+msgid "Mentions"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:80
+#, php-format
+msgid "<span>%s new</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:90
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/activity.php:3
+msgid "RSS"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:95
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/activity.php:8
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:18
+msgid "Show:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:97
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/activity.php:10
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:20
+msgid "Everything"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:98
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/activity.php:11
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:21
+msgid "Updates"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:102
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/forums-loop.php:40
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:27
+msgid "Posts"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:103
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:288
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:28
+msgid "Comments"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:109
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/activity.php:14
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:43
+msgid "Forum Topics"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:110
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/activity.php:15
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:44
+msgid "Forum Replies"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:116
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:50
+msgid "New Groups"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:117
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/activity.php:18
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:51
+msgid "Group Memberships"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:123
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/activity.php:35
+msgid "Friendships"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/index.php:127
+msgid "New Members"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/post-form.php:35
+msgid "Post Update"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/post-form.php:42
+msgid "Post in"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/activity/post-form.php:45
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/blogs-loop.php:90
+msgid "Sorry, there were no sites found."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/create.php:21
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/index.php:23
+msgid "Create a Site"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/create.php:21
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/index.php:23
+msgid "Site Directory"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/create.php:32
+msgid "Site registration is currently disabled"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/index.php:35
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/index.php:39
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/index.php:55
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:61
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/forum.php:34
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:57
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:36
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/index.php:55
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/blogs.php:19
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/forums.php:18
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/friends.php:20
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups.php:20
+msgid "Order By:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/index.php:57
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:63
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/forum.php:36
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:59
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:38
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/index.php:57
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/blogs.php:21
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/forums.php:20
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/friends.php:22
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups.php:22
+msgid "Last Active"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/index.php:58
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/blogs.php:22
+msgid "Newest"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/blogs/index.php:59
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:62
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/index.php:62
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/blogs.php:23
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/friends.php:24
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups.php:25
+msgid "Alphabetical"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:282
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:77
+msgid "Groups"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:284
+msgid "Posting Updates"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:285
+msgid "Replies"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:286
+msgid "Group Forum Topics"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:287
+msgid "Group Forum Replies"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:289
+msgid "Blog Posts"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:290
+msgid "Blog Posts in a Category"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:291
+msgid "Donations"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:292
+msgid "Logging In"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:293
+msgid "Points"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:294
+msgid "Main Forum"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:329
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:363
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:397
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:431
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:465
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:499
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:533
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:567
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:601
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:635
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:669
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:733
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:769
+msgid "of"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:329
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:363
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:397
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:431
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:465
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:499
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:533
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:567
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:601
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:635
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:669
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:733
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:769
+msgid "unlocked"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:865
+msgid "Earned"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/awards.php:866
+msgid "Total"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:32
+msgid "Community"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:37
+msgid " Points - Update"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:43
+msgid " Points - Leaving a reply"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:49
+msgid " Points - Creating a group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:55
+msgid " Points - Uploading a group avatar"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:61
+msgid " Points - Joining a group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:67
+msgid " Points - Leaving a group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:73
+msgid " Points - Group Update or Reply"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:79
+msgid " Points - Completed Friend Request"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:85
+msgid " Points - New Group Forum Topic"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:91
+msgid " Points - New Group Forum Post"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:97
+msgid " Points - Avatar Uploaded"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:103
+msgid " Points - Message Sent"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:109
+msgid " Points - Link Created"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:115
+msgid " Points - Link Voted"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:121
+msgid " Points - Link Comment"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:127
+msgid " Points - Gift Given"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:133
+msgid " Points - Gallery Upload"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:138
+msgid "Blog Activity"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:143
+msgid " Points - Blog Comment"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:149
+msgid " Points - Blog Post"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:154
+msgid "Misc"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:159
+msgid " Points - Becoming a Member"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/cubepoint/earnpoints.php:165
+msgid " Points - Daily Login"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/forums-loop.php:39
+msgid "Topic"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/forums-loop.php:41
+msgid "Freshness"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/forums-loop.php:54
+msgid "Permalink"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/forums-loop.php:61
+#, php-format
+msgid "Started by %1$s"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/forums-loop.php:72
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/forums-loop.php:122
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:24
+msgid "Forums Directory"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:24
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/forum.php:19
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:19
+msgid "New Topic"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:41
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:45
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:64
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/forum.php:37
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:39
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/forums.php:21
+msgid "Most Posts"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:65
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/forum.php:38
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:40
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/forums.php:22
+msgid "Unreplied"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:101
+msgid "Create New Topic:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:105
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/edit.php:49
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:75
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:49
+msgid "Title:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:108
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/edit.php:52
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:78
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:52
+msgid "Content:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:111
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:81
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:55
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:114
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:117
+msgid "----"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:134
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:87
+msgid "Post Topic"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:135
+msgid "Cancel"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/index.php:146
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/edit.php:16
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/forum.php:25
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/topic.php:45
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:27
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:16
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:20
+msgid "Forum Directory"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/edit.php:25
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/edit.php:57
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/edit.php:73
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:32
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:117
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:60
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:76
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:126
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:69
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/notifications.php:62
+msgid "Save Changes"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/edit.php:88
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/edit.php:91
+msgid "This topic does not exist."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/forum-header.php:13
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/groups-loop.php:47
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/group-header.php:42
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/topic.php:38
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:12
+msgid "New Reply"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/topic.php:99
+#, php-format
+msgid "%s said %s ago:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/topic.php:119
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:95
+msgid "Permanent link to this post"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/topic.php:155
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:131
+msgid "Add a reply:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/topic.php:160
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:136
+msgid "Post Reply"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/topic.php:171
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:147
+msgid "This topic is closed, replies are no longer accepted."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/forums/single/topic.php:186
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:161
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:19
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:23
+msgid "Create a Group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:19
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:23
+msgid "Groups Directory"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:40
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:43
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:63
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:70
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:79
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:83
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:85
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:86
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:95
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:64
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:87
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:92
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:94
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:96
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:105
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:75
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:101
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:103
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:104
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:112
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:114
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:119
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:99
+msgid "All group members"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:124
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:129
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:155
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:127
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:159
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:131
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:18
+msgid "Upload Image"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:163
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:170
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:172
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:151
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:33
+msgid "Avatar to crop"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:175
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:154
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:36
+msgid "Avatar preview"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:178
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:157
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:39
+msgid "Crop Image"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:217
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:235
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/send-invites.php:42
+msgid "Remove Invite"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:252
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/send-invites.php:73
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group. You can send invites any time in the future by selecting the "
+"\"Send Invites\" option when viewing your new group."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:274
+msgid "Back to Previous Step"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:281
+msgid "Next Step"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:288
+msgid "Create Group and Continue"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/create.php:295
+msgid "Finish"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:37
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:60
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups.php:23
+msgid "Most Members"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/index.php:61
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups.php:24
+msgid "Newly Created"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:25
+msgid "Notify group members of changes via email"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:26
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:205
+msgid "Yes"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:27
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:206
+msgid "No"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:139
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:24
+msgid "Delete Avatar"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:177
+msgid "Administrators"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:185
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:210
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:189
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:215
+msgid "Demote to Member"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:203
+msgid "Moderators"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:214
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:270
+msgid "Promote to Admin"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:258
+msgid "(banned)"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:264
+msgid "Unban this member"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:264
+msgid "Remove Ban"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:268
+msgid "Kick and ban this member"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:268
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:269
+msgid "Promote to Mod"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:274
+msgid "Remove this member"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:274
+msgid "Remove from group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:288
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/members.php:87
+msgid "This group has no members."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:318
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/friends/requests.php:37
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups/invites.php:23
+msgid "Accept"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:320
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/friends/requests.php:38
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups/invites.php:24
+msgid "Reject"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:333
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:350
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:353
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/admin.php:358
+msgid "Delete Group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/send-invites.php:60
+msgid "Send Invites"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:35
+msgid "Topic tags:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/groups/single/forum/topic.php:126
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:20
+msgid "My Favorites"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:21
+msgid "Accepted"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:22
+msgid "Rejected"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:23
+msgid "Show all comments for this thread"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:24
+msgid "Show all"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:25
+msgid "comments"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/buddypress.php:26
+msgid "Close"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/myabp_themeoptions.php:28
+msgid "Primary Navigation"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/myabp_themeoptions.php:29
+msgid "Footer Navigation"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/myabp_themeoptions.php:138
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/myabp_themeoptions.php:411
+msgid "Theme Options"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widet_social_tabs.php:43
+msgid "Facebook"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widet_social_tabs.php:48
+msgid "Twitter"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widet_social_tabs.php:53
+msgid "Google"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:52
+msgid "Hello"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:52
+msgid "Logout"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:87
+msgid "Go to Dashboard"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:88
+msgid "Edit My Profile"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:92
+msgid "Your Favorite Games"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:105
+msgid "Login"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:121
+msgid "Register"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:129
+msgid "Login with Facebook"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:134
+msgid "Lost password?"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/index.php:23
+msgid "Members Directory"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/index.php:58
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/members-loop.php:108
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups/invites.php:14
+#, php-format
+msgid "%s members"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/compose.php:20
+msgid "Message"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/messages-loop.php:31
+msgid "From:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/messages-loop.php:36
+msgid "To:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/messages-loop.php:42
+msgid "View Message"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/messages-loop.php:50
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/notices-loop.php:38
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/messages-loop.php:68
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/notices-loop.php:31
+msgid "Sent:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/notices-loop.php:49
+msgid "Sorry, no notices were found."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s and you."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/single.php:75
+msgid "Send a Reply"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/messages/single.php:91
+msgid "Send Reply"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:1
+msgid "Change Avatar"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:7
+msgid ""
+"Your avatar will be used on your profile and throughout the site. If there "
+"is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:24
+msgid "Delete My Avatar"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Avatar"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/change-avatar.php:55
+msgid ""
+"Your avatar will be used on your profile and throughout the site. To change "
+"your avatar, please create an account with <a href=\"http://gravatar.com"
+"\">Gravatar</a> using the same email address as you used to register with "
+"this site."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:10
+#, php-format
+msgid "Editing '%s' Profile Group"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:26
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:33
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:40
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:49
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:67
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:83
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:93
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:37
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:41
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:45
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:49
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:76
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:84
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:92
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:102
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:113
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:128
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:139
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:189
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:198
+msgid "(required)"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:58
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/edit.php:73
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:119
+msgid "Clear"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/profile-wp.php:15
+msgid "Name"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/delete-account.php:50
+msgid "Delete Account"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/delete-account.php:55
+msgid ""
+"WARNING: Deleting your account will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/delete-account.php:58
+msgid "I understand the consequences of deleting my account."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/delete-account.php:63
+msgid "Delete My Account"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:50
+msgid "General Settings"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:56
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:57
+msgid "Password Lost and Found"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:59
+msgid "Account Email"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:62
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:63
+msgid "New Password"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/general.php:64
+msgid "Repeat New Password"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/notifications.php:50
+msgid "Email Notification"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/members/single/settings/notifications.php:55
+msgid "Send a notification by email when:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/activate.php:12
+msgid "Account Activated"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/activate.php:17
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/activate.php:19
+msgid ""
+"Your account was activated successfully! You can now log in with the "
+"username and password you provided when you signed up."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/activate.php:24
+msgid "Activate your Account"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/activate.php:28
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/activate.php:32
+msgid "Activation Key:"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/activate.php:36
+msgid "Activate"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:16
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:23
+msgid "Create an Account"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:27
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:35
+msgid "Account Details"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:41
+msgid "Email Address"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:45
+msgid "Choose a Password"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:49
+msgid "Confirm Password"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:65
+msgid "Profile Details"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:183
+msgid "Blog Details"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:185
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:189
+msgid "Blog URL"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:198
+msgid "Site Title"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:202
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:219
+msgid "Complete Sign Up"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:230
+msgid "Sign Up Complete!"
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:236
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+
+#: w:\myarcadeplugin\wp-content\themes\fungames/registration/register.php:238
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""

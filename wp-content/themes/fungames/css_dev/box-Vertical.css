@@ -1,0 +1,16 @@
+.game_title {
+  height: 113px;
+}
+.gamebox {
+  width: 210px;
+  float: left;
+  margin:  0px 0px 15px 3px;
+  padding-top:  10px;
+  padding-bottom:  10px;
+}
+
+.gamebox  h2 {
+  margin:  0px 0 5px 0;
+  padding:  5px 0px 0px 10px;
+  overflow: hidden;
+}

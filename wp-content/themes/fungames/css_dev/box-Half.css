@@ -1,0 +1,32 @@
+.gamebox {
+  float: left;
+  width:  316px;
+  margin:  0px 0px 15px 3px;
+  padding-top:  10px;
+  padding-bottom:  10px;
+}
+
+.gamebox h2 {
+  margin:  0px 0 5px 0;
+  padding:  5px 0px 0px 10px;
+  overflow: hidden;
+}
+
+.game_title {
+  float: left;
+  height: 100px;
+  overflow: hidden;
+  margin: 0 0 10px 10px;
+}
+
+.game_thumb {
+  float: left;
+}
+.game_details {
+  float:left;
+  text-align: left;
+  margin-left: 10px;
+  width: 185px;
+}
+
+.spacer { margin: 10px 0;}

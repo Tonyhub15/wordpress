@@ -1,0 +1,27 @@
+v2.10 - 2011-07-12
+  - Fixed: W3C Errors
+  - Checked: WP 3.2 compatibility
+
+v2.01 - 2011-03-27
+  - Fixed: "Post Game List Template" not saved properly
+
+v2.00 - 2010-12-10
+  - Added: Alphabetical order with leading letters (Miniclip style) 
+  - Added: Auto creation of the game list for pages and posts
+  - Fixed: W3C Errors
+
+v1.22 - 2010-04-15
+  - Edit:  Moved the MyGameListCreator menu from "Settings" to "MyArcade"
+  
+v1.21 - 2010-03-15
+  - Fixed: Renamed post metas to avoid conflicts with other plugins
+
+v1.2 - 2010-01-11
+  - Fixed: Error message if missing a game list
+  - Added: Option to embed game lists in posts and pages with predefined templates
+  
+v1.1 - 2009-12-13
+  - Added: Ability to choose categories
+
+v1.0 
+  Initial Version  

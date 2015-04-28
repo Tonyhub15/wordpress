@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Text in echo
+msgid "Categories"
+msgstr "Categorias"
+
+#. Text in echo
+msgid "Sorry, the search is not found!"
+msgstr "Disculpa, lo que buscabas no se encontro!"
+
+#. Text in echo
+msgid "Try another search..."
+msgstr "Intenta buscando algo mas..."
+
+#. Text in echo
+msgid "Game loading!"
+msgstr "El juego se esta cargando!"
+
+#. Text in echo
+msgid "Skip"
+msgstr "Omitir"
+
+#. Text in echo
+msgid "Archives"
+msgstr "Archivos"
+
+#. Text in echo
+msgid "Powered by"
+msgstr "Patrocinado por"
+
+#. Text in echo
+msgid "Game information"
+msgstr "Informacion del Juego"
+
+#. Text in echo
+msgid "Hot Game"
+msgstr "Juego Destacado"
+
+#. Text in echo
+msgid "Check if a Hot Game"
+msgstr "Marca esta casilla si es un juego destacado"
+
+#. Text in echo
+msgid "Game URL"
+msgstr "URL del juego"
+
+#. Text in echo
+msgid "Upload a game or enter an URL."
+msgstr "Sube un juego o ingresa una URL"
+
+#. Text in echo
+msgid "Walkthrough"
+msgstr "¿Como se Juega?"
+
+#. Text in echo
+msgid "Copy and paste here the youtube video ID. Eg. QJVjoVUMvB8"
+msgstr "Copia y pega el ID del video de Youtube. Ej. QJVjoVUMvB8"
+
+#. Text in echo
+msgid "Play"
+msgstr "Jugar"
+
+#. Text in echo
+msgid "Search for"
+msgstr "Busqueda para"
+
+#. Text in echo
+msgid "Gameplays"
+msgstr "Veces jugado"
+
+#. Text in echo
+msgid "You are playing"
+msgstr "Estas jugando"
+
+#. Text in echo
+msgid "Please upload a game file!"
+msgstr "Por favor sube un juego!"
